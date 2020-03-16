@@ -1,2 +1,6 @@
 # hello-world
-Repository for learning
+
+I'm Maro 
+
+Gdzie mnie z tą gitaro?
+
